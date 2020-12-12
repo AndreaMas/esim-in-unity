@@ -1,14 +1,34 @@
-# esim-in-unity
+# Event Camera Simulator in Unity.
 
+This is the GitHub page relative to the paper **"Event Camera Simulator in Unity"**, my Computer Vision course project. A copy of the paper can be found in this repository, it provides all the details of the project. In this repository you can find:
 
-The proposed scripts, to be included inside the Unity project, are two:
-\begin{enumerate}
-  \item a C\# script, that needs to be attached to a game object (can be any). This script is responsible for:
-  \begin{itemize}
-   \item showing a basic UI button in the Game View, used to start and stop the recording,
-   \item displaying (in the game object's inspector) only the most significant event camera parameters to set,
-   \item calling the following bash script as soon as the recording is stopped, sending as arguments the parameters specified by the User;
-  \end{itemize}
-  \item a bash script, that will automatically execute all the commands needed to run ESIM (remember to mark as executable).
-\end{enumerate}
+- code: the necessary C# and bash scripts
+- a simple installation guide,
+- how to use indications,
+- a video-tutorial.
 
+### System Requirements
+
+For the project I've used:
+
+- OS: Ubuntu 18.04
+- ROS melodic
+- Unity 2019.4.11f1
+- ESIM: an Open Event Camera Simulator
+
+The OS and ROS version decision was imposed by ESIM, since these are the latest versions supported by the software.
+
+### Setup process/ installation guide
+
+- Install and try out the ESIM event camera simulator. The GitHub page [https://github.com/uzh-rpg/rpg_esim](https://github.com/uzh-rpg/rpg_esim) gives all the necessary instructions to do so (including a link to ROS software installation and set-up).
+- Install Unity and create a scene (even very simple, with some motion of course).
+- Add in your Unity project, through the Unity Package Manager, the Unity Recorder package (may be still in preview).
+- In this GitHub repository two scripts have been loaded, a C# and bash script, called RecordImageSeq.cs and scriptRos.sh. Add them in your Scripts folder. Please remember to change the properties of the bash script, allowing it to execute as a program.
+- Attach the "RecordImageSeq.cs" script to a gameObject (any).
+
+### How To use
+
+- In the gameObject's Inspector (the same gameObject on which the C# script has been attached to), the user can adjust some basic event camera parameters.
+- By entering play mode, the game view will display two buttons, one to start recording and one to stop it. Once the recording stops, the conversion into simulated event camera footage starts automatically.
+
+### Explanatory video tutorial: link...
