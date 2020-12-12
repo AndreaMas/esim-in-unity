@@ -2,7 +2,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1BFku9M3MiU
 " target="_blank"><img src="http://img.youtube.com/vi/1BFku9M3MiU/0.jpg" 
-alt="IMAGE ALT ESIM with Unity Demonstration" alt="centered image" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT ESIM with Unity Demonstration" vertical-align=middle width="240" height="180" border="10" /></a>
 
 
 This is the GitHub page relative to the paper **"Event Camera Simulator in Unity"**, my Computer Vision course project. A copy of the paper can be found in this repository, it provides all the details of the project. In this repository you can find:
