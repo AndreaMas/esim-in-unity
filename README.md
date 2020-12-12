@@ -14,7 +14,7 @@ For the project I've used:
 - OS: Ubuntu 18.04
 - ROS melodic
 - Unity 2019.4.11f1
-- ESIM: an Open Event Camera Simulator
+- ESIM: an Open Event Camera Simulator [https://github.com/uzh-rpg/rpg_esim]
 
 The OS and ROS version decision was imposed by ESIM, since these are the latest versions supported by the software.
 
