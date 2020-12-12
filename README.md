@@ -1,5 +1,7 @@
 # Event Camera Simulator in Unity.
 
+https://youtu.be/1BFku9M3MiU
+
 This is the GitHub page relative to the paper **"Event Camera Simulator in Unity"**, my Computer Vision course project. A copy of the paper can be found in this repository, it provides all the details of the project. In this repository you can find:
 
 - code: the necessary C# and bash scripts
