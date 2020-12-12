@@ -1,6 +1,6 @@
 # Event Camera Simulator in Unity.
 
-https://youtu.be/1BFku9M3MiU
+[https://youtu.be/1BFku9M3MiU](https://youtu.be/1BFku9M3MiU)
 
 This is the GitHub page relative to the paper **"Event Camera Simulator in Unity"**, my Computer Vision course project. A copy of the paper can be found in this repository, it provides all the details of the project. In this repository you can find:
 
@@ -16,7 +16,7 @@ For the project I've used:
 - OS: Ubuntu 18.04
 - ROS melodic
 - Unity 2019.4.11f1
-- ESIM: an Open Event Camera Simulator [https://github.com/uzh-rpg/rpg_esim]
+- ESIM: an Open Event Camera Simulator [https://github.com/uzh-rpg/rpg_esim](https://github.com/uzh-rpg/rpg_esim)
 
 The OS and ROS version decision was imposed by ESIM, since these are the latest versions supported by the software.
 
