@@ -2,7 +2,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1BFku9M3MiU
 " target="_blank"><img src="http://img.youtube.com/vi/1BFku9M3MiU/0.jpg" 
-alt="IMAGE ALT ESIM with Unity Demonstration" width="300" height="180" border="10" /></a>
+alt="ESIM with Unity Demonstration" width="300" height="180" border="10" /></a>
 
 This is the GitHub page relative to the paper **"Event Camera Simulator in Unity"**, my Computer Vision course project. A copy of the paper can be found in this repository, it provides all the details of the project. In this repository you can find:
 
@@ -35,4 +35,7 @@ The OS and ROS version decision was imposed by ESIM, since these are the latest 
 - In the gameObject's Inspector (the same gameObject on which the C# script has been attached to), the user can adjust some basic event camera parameters.
 - By entering play mode, the game view will display two buttons, one to start recording and one to stop it. Once the recording stops, the conversion into simulated event camera footage starts automatically.
 
-### Explanatory video tutorial: link...
+### Explanatory video tutorial: [https://youtu.be/c93DNSUmXrE](https://youtu.be/c93DNSUmXrE)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=c93DNSUmXrE
+" target="_blank"><img src="http://img.youtube.com/vi/c93DNSUmXrE/0.jpg" 
+alt="ESIM with Unity Tutorial" width="300" height="180" border="10" /></a>
