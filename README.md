@@ -1,8 +1,7 @@
 # Event Camera Simulator in Unity.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=1BFku9M3MiU
-" target="_blank"><img src="http://img.youtube.com/vi/1BFku9M3MiU/0.jpg" 
-alt="ESIM with Unity Demonstration" width="300" height="180" border="10" /></a>
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/32450751/189521542-46781f2d-123e-45d9-a4b3-60b7f9ab2530.gif)
+
 
 This is the GitHub page relative to the paper **"Event Camera Simulator in Unity"**, my Computer Vision course project. A copy of the paper can be found in this repository, it provides all the details of the project. In this repository you can find:
 
