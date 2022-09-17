@@ -1,4 +1,4 @@
-# Event Camera Simulator in Unity.
+# Create Synthetic Event Camera footage in Unity.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/32450751/189521542-46781f2d-123e-45d9-a4b3-60b7f9ab2530.gif)
 
